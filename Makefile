@@ -1,6 +1,6 @@
 PROJECT = emq_modules
 PROJECT_DESCRIPTION = EMQ Modules
-PROJECT_VERSION = 2.3.4
+PROJECT_VERSION = 2.3.5
 
 BUILD_DEPS = emqttd cuttlefish
 dep_emqttd = git https://github.com/emqtt/emqttd emq24
